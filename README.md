@@ -1,5 +1,5 @@
 
-# 💫 About Me:
+#  About Me:
 Hey there! I'm Dibyasha Jena<br>I'm a final-year BSc student passionate about software development, problem-solving, and web technologies. I have experience in C, C++, Java, and web development, and I love building projects that solve real-world problems.<br> Looking Forward To:<br>Contributing to open-source projects<br>Collaborating with developers & learning new technologies
 
 
